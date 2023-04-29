@@ -1,0 +1,3 @@
+[submodule "Scripts/EFI-optimization/OC-Kext-order"]
+	path = Scripts/EFI-optimization/OC-Kext-order
+	url = https://github.com/bytecntrl/OC-Kext-order
